@@ -1,4 +1,4 @@
-# Road Detection Articulation -------> Roadify
+# Make Way - Road Detection Articulation
 
 Image Processing project developed to assist drivers using camera data, the designed software led to a decrease in time and space complexities of the conventional
 methods to the same approach.
